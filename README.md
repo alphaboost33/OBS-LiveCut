@@ -21,7 +21,7 @@ We believe in user privacy and security.
 ---
 
 ## 🚀 Easy Setup (Recommended)
-1. [**Download setup_livecut.bat**](https://github.com/alphaboost33/OBS-LiveCut/raw/main/setup_livecut.bat?download=)
+1. [**Download the setup (.bat)**](https://github.com/YOUR_USERNAME/OBS-LiveCut/releases/latest/download/setup_livecut.bat)
 2. **Right-click** the file and select **"Run as Administrator"**.
 3. Restart OBS Studio.
 
