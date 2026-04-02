@@ -65,7 +65,7 @@ Open OBS and go to **Tools** ➔ **Scripts**. Click the **+** button and select 
 
 ### 2. Set Your Hotkeys
 Go to **Settings** ➔ **Hotkeys**. Search for "OBS LiveCut" and bind your keys:
-* **Cut Last 10s / 30s:** Instantly removes the last segment of time from the final edit.
+* **Cut Last 10s / 30s:** Instantly removes the previous 10 or 30 seconds
 * **Pause / Resume:** Stop the "edit" timer while you take a break, then resume when you're ready.
 
 ### 3. The Result
