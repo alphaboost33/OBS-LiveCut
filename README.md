@@ -69,7 +69,7 @@ Open OBS and go to **Tools** ➔ **Scripts**. Click the **+** button and select 
 </p>
 
 ### 2. Set Your Hotkeys
-Go to **Settings** ➔ **Hotkeys**. Search for "Auto-Stitch" and bind your keys:
+Go to **Settings** ➔ **Hotkeys**. Search for "OBS LiveCut" and bind your keys:
 * **Cut Last 10s / 30s:** Instantly removes the last segment of time from the final edit.
 * **Pause / Resume:** Stop the "edit" timer while you take a break, then resume when you're ready.
 
