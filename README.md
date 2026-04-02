@@ -21,7 +21,7 @@ We believe in user privacy and security.
 ---
 
 ## 🚀 Easy Setup (Recommended)
-1. [**Download the setup (.bat)**](https://github.com/YOUR_USERNAME/OBS-LiveCut/releases/latest/download/setup_livecut.bat)
+1. [**Download the setup (.bat)**](https://github.com/alphaboost33/OBS-LiveCut/releases/latest/download/setup_livecut.bat)
 2. **Right-click** the file and select **"Run as Administrator"**.
 3. Restart OBS Studio.
 
@@ -49,7 +49,7 @@ The OBS script uses PowerShell to call FFmpeg. For PowerShell to know what "ffmp
 ## 📖 How to Use
 
 ### 1. Load the Script
-[**Download the Script (.lua)**](https://github.com/YOUR_USERNAME/OBS-LiveCut/releases/latest/download/obs_livecut.lua)
+[**Download the Script (.lua)**](https://github.com/alphaboost33/OBS-LiveCut/releases/latest/download/obs_livecut.lua)
 Open OBS and go to **Tools** ➔ **Scripts**. Click the **+** button and select the `obs_livecut.lua` you just downloaded.
 
 <p align="center">
