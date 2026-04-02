@@ -32,15 +32,17 @@ If you prefer to configure Windows yourself, follow these steps:
 
 ### 1. Install FFmpeg
 * Download the "Essentials" zip from [gyan.dev](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip).
-* Create a folder named `C:\ffmpeg`.
-* Open the downloaded zip and extract the contents so that the `bin` folder is located at `C:\ffmpeg\bin`.
+* Inside, you will see a folder. Copy that entire folder and paste it directly into your `C:\` drive. 
+* Right-click the folder on your `C: drive`, select Rename, and change its name to just ffmpeg (so the full path is exactly `C:\ffmpeg`).
 
 ### 2. Set Windows Environment Variables
-* Press the **Windows Key** and type **"Environment Variables"**, then select **"Edit the system environment variables"**.
-* Click the **Environment Variables** button at the bottom right.
-* Under **System variables**, find the one named **Path** and click **Edit**.
-* Click **New** and paste: `C:\ffmpeg\bin`.
-* Click **OK** on all windows to save and restart OBS Studio.
+The OBS script uses PowerShell to call FFmpeg. For PowerShell to know what "ffmpeg" means, you have to add it to your Windows Environment Variables.
+➡  Press the Windows Key on your keyboard, type Environment Variables, and hit Enter. (The exact option is usually called "Edit the system environment variables").
+➡  At the bottom right of the window that pops up, click the Environment Variables... button.
+➡  In the bottom list (System variables), scroll down until you see the variable named Path. Click on it to highlight it, then click Edit....
+➡  Click the New button on the right side.
+➡  Type exactly this: `C:\ffmpeg\bin`
+➡  Click OK on all three windows to save and close them.
 
 ---
 
