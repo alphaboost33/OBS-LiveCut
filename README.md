@@ -50,6 +50,7 @@ The OBS script uses PowerShell to call FFmpeg. For PowerShell to know what "ffmp
 
 ### 1. Load the Script
 [**Download the Script (.lua)**](https://github.com/alphaboost33/OBS-LiveCut/releases/latest/download/obs_livecut.lua)
+
 Open OBS and go to **Tools** ➔ **Scripts**. Click the **+** button and select the `obs_livecut.lua` you just downloaded.
 
 <p align="center">
