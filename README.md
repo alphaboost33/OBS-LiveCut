@@ -76,6 +76,7 @@ Go to **Settings** ➔ **Hotkeys**. Search for "OBS LiveCut" and bind your keys:
 * **Pause / Resume:** Stop the "edit" timer while you take a break, then resume when you're ready.
 
 ### 3. The Result
+First of all, wait for the script to take action. FFmpeg will start running and trimming in the background. You hit "Stop Recording," go grab a sandwich, and when you come back, the video is already trimmed, perfectly synced, and ready to be dragged straight into the "Upload" box.
 In your recording folder, you will see two files:
 1. `Original_Video.mp4` — Your full, original recording.
 2. `Original_Video_FinalTrimmed.mp4` — Your clean, edited version.
