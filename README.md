@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alphaboost33/OBS-LiveCut/main/img/logo.png" width="800" alt="OBS LiveCut Logo">
+</p>
+
 # ✂️ OBS LiveCut 
 **The "Zero-Editing" plugin for OBS Studio.**
 
