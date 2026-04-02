@@ -6,7 +6,7 @@ Stop spending hours cutting out mistakes. **OBS LiveCut** allows you to trim bad
 ---
 
 ## 💎 Why OBS LiveCut?
-* **No Hidden Actions:** The `.bat` script only performs three tasks: downloads FFmpeg from the official source, moves it to your C: drive, and updates your Windows Path.
+* **No Hidden Actions:** The `.bat` script only performs three tasks: downloads FFmpeg from the official source, moves it to your `C: drive`, and updates your Windows Path.
 * **Zero Data Loss (Safety First):** The plugin **never** touches your original file. It creates a brand new `_FinalTrimmed` version. If anything goes wrong, your raw footage is 100% safe.
 * **Pro Hotkeys:** Bind **Cut 10s**, **Cut 30s**, and **Pause / Resume** to any key or mouse button. It works even while you are tabbed into a game.
 * **Frame-Perfect Sync:** Uses a high-end FFmpeg filter engine to ensure your audio and video stay perfectly aligned with zero lag.
