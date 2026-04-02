@@ -21,9 +21,9 @@ We believe in user privacy and security.
 ---
 
 ## 🚀 Easy Setup (Recommended)
-1. Download `setup_livecut.bat` from this repo.
+1. [**Download setup_livecut.bat**](https://github.com/alphaboost33/OBS-LiveCut/raw/main/setup_livecut.bat?download=)
 2. **Right-click** the file and select **"Run as Administrator"**.
-3. Restart OBS Studio. 
+3. Restart OBS Studio.
 
 ---
 
@@ -49,11 +49,22 @@ The OBS script uses PowerShell to call FFmpeg. For PowerShell to know what "ffmp
 ## 📖 How to Use
 
 ### 1. Load the Script
-Open OBS and go to **Tools** ➔ **Scripts**. Click the **+** button and select `obs_livecut.lua`.
+Open OBS and go to **Tools** ➔ **Scripts**. Click the **+** button and select the `obs_livecut.lua` you just downloaded.
 
-*(Insert Screenshot 1: The + Button)*
-*(Insert Screenshot 2: Selecting the file)*
-*(Insert Screenshot 3: Script appearing in the list)*
+<p align="center">
+  <img src="img/step1.png" width="700" alt="Click the Plus Button">
+  <br><i>Click the "+" icon in the bottom left of the Scripts window.</i>
+</p>
+
+<p align="center">
+  <img src="img/step2.png" width="700" alt="Selecting the file">
+  <br><i>Navigate to your folder and select the obs_livecut.lua file.</i>
+</p>
+
+<p align="center">
+  <img src="img/step3.png" width="700" alt="Script appearing in the list">
+  <br><i>Once loaded, you will see the OBS LiveCut controls on the right.</i>
+</p>
 
 ### 2. Set Your Hotkeys
 Go to **Settings** ➔ **Hotkeys**. Search for "Auto-Stitch" and bind your keys:
