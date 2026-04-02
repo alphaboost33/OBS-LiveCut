@@ -19,6 +19,7 @@ We believe in user privacy and security.
 * **Frame-Perfect Sync:** Uses a high-end FFmpeg filter engine to ensure your audio and video stay perfectly aligned with zero lag.
 
 ---
+Prerequisites (FFmpeg)
 
 ## 🚀 Easy Setup (Recommended)
 1. [**Download the setup (.bat)**](https://github.com/alphaboost33/OBS-LiveCut/releases/latest/download/setup_livecut.bat)
