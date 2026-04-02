@@ -23,7 +23,7 @@ Stop spending hours cutting out mistakes. **OBS LiveCut** allows you to trim bad
 ---
 
 ## 🛠️ Manual Setup
-If you prefer to configure Windows yourself, follow these steps:
+If you prefer to configure by yourself, follow these steps:
 
 ### 1. Install FFmpeg
 * Download the "Essentials" zip from [gyan.dev](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip).
