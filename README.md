@@ -55,17 +55,17 @@ Open OBS and go to **Tools** ➔ **Scripts**. Click the **+** button and select 
 
 <p align="center">
   <img src="img/step1.png" width="700" alt="Click the Plus Button">
-  <br><i>Click the "+" icon in the bottom left of the Scripts window.</i>
+  <br><i>Open Tools tab.</i>
 </p>
 
 <p align="center">
   <img src="img/step2.png" width="700" alt="Selecting the file">
-  <br><i>Navigate to your folder and select the obs_livecut.lua file.</i>
+  <br><i>Select Scripts.</i>
 </p>
 
 <p align="center">
   <img src="img/step3.png" width="700" alt="Script appearing in the list">
-  <br><i>Once loaded, you will see the OBS LiveCut controls on the right.</i>
+  <br><i>Click the "+" icon in the bottom left of the Scripts window. Once loaded, you will see the OBS LiveCut controls on the right.</i>
 </p>
 
 ### 2. Set Your Hotkeys
