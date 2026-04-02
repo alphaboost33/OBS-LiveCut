@@ -15,7 +15,7 @@ Stop spending hours cutting out mistakes. **OBS LiveCut** allows you to trim bad
 * **Workflow**: Active. Edit while the energy is high!
 ---
 
-## 🚀 Easy Setup (Recommended)
+## Prerequisites 🚀 Easy Setup (Recommended)
 1. [**Download the setup (.bat)**](https://github.com/alphaboost33/OBS-LiveCut/releases/latest/download/setup_livecut.bat)
 2. **Right-click** the file and select **"Run as Administrator"**.
 3. Restart OBS Studio.
