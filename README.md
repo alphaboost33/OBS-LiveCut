@@ -17,9 +17,9 @@ We believe in user privacy and security.
 * **Zero Data Loss (Safety First):** The plugin **never** touches your original file. It creates a brand new `_FinalTrimmed` version. If anything goes wrong, your raw footage is 100% safe.
 * **Pro Hotkeys:** Bind **Cut 10s**, **Cut 30s**, and **Pause / Resume** to any key or mouse button. It works even while you are tabbed into a game.
 * **Frame-Perfect Sync:** Uses a high-end FFmpeg filter engine to ensure your audio and video stay perfectly aligned with zero lag.
-* **Privacy** Your mistakes never leave your PC. PC.	Your "bad takes" aren't sitting on Google's servers until you cut them out with Youtube Studio.
-* **Storage** Your final file is already small and clean.
-* **Workflow** Active. Edit while the energy is high!
+* **Privacy**: Your mistakes never leave your PC. PC.	Your "bad takes" aren't sitting on Google's servers until you cut them out with Youtube Studio.
+* **Storage**: Your final file is already small and clean.
+* **Workflow**: Active. Edit while the energy is high!
 ---
 
 ## 🚀 Easy Setup (Recommended)
